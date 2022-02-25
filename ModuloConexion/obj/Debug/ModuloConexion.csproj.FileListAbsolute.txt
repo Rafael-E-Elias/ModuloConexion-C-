@@ -1,0 +1,10 @@
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\bin\Debug\ModuloConexion.exe.config
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\bin\Debug\ModuloConexion.exe
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\bin\Debug\ModuloConexion.pdb
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.csprojAssemblyReference.cache
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.Properties.Resources.resources
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.csproj.GenerateResource.cache
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.exe
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.pdb
+C:\Users\reduardoelias\source\repos\ModuloConexion\ModuloConexion\obj\Debug\ModuloConexion.Conexion.resources
